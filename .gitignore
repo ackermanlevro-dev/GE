@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local auth token cache - never commit, acts like a signed-in session
+.msal_cache.json
+
+# Generated at runtime from the live list - not source
+field_mapping.json
+
+# Runtime outputs that may contain real business data
+backups/
+audit_log.csv
+*_results.csv

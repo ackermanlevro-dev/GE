@@ -1,0 +1,14 @@
+{
+  "site_url": "https://gehealthcare.sharepoint.com/sites/HCGEHealthCareETSSInfrastructureOperations",
+  "list_title": "Asset MGMT  SC Tracker",
+  "key_column": "SC ID",
+  "client_id": "9bc3ab49-b65d-410a-85ad-de819febfddc",
+  "authority": "https://login.microsoftonline.com/organizations",
+  "editable_fields": [
+    "Invoice NO",
+    "Invoice date",
+    "GRN NO",
+    "GRN Date",
+    "GRN Quater"
+  ]
+}
